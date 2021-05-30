@@ -1,0 +1,35 @@
+header {
+	padding: 15px 30px;
+	background-color: darkslategray;
+	color: white;
+}
+header {
+	font-size: 20px;
+	font-weight: 500;
+}
+header div {
+	float: right;
+}
+header div a {
+	margin-left: 20px;
+	color: white;
+}
+body {
+  background-image: url("https://free4kwallpapers.com/uploads/originals/2021/01/20/music-wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: gold;
+}
